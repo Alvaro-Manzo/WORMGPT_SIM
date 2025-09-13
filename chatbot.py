@@ -47,7 +47,7 @@ class BotConfig:
         if self.forbidden_words is None:
             self.forbidden_words = []
         if not self.gemini_api_key:
-            self.gemini_api_key = os.getenv("GEMINI_API_KEY", "AIzaSyAuzpjeqbdk7YvLyNk6AtBTtO77jBOtX7M")
+            self.gemini_api_key = os.getenv("GEMINI_API_KEY", "YOUR_API_KEY_HERE")
 
 class ChatbotUnico:
     """
