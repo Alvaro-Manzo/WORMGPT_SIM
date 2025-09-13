@@ -39,7 +39,7 @@ google-generativeai >= 0.3.0
 ### Configuración
 1. **Clona el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/wormgpt-simulator.git
+git clone https://github.com/Alvaro-Manzo/WORMGPT_SIM.git
 cd wormgpt-simulator
 ```
 
