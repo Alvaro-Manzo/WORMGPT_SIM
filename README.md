@@ -161,7 +161,7 @@ MIT License - Ver archivo LICENSE para más detalles.
 ## 👨‍💻 Autor
 
 **Álvaro Manzo**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [@Alvaro-Manzo](https://github.com/Alvaro-Manzo)
 - Proyecto creado con fines educativos
 
 ## 🙏 Agradecimientos
